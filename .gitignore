@@ -1,0 +1,5 @@
+*.pdf
+*.docx
+*.rar
+__pycache__
+.idea
