@@ -1,4 +1,5 @@
 # improved-DBSCAN
+DBSCAN improvement so that the algorithm works well with data with different densities
 
 ## Density-Based Clustering Algorithms
 Density-Based Clustering refers to unsupervised learning methods that identify distinctive groups/clusters in the data, based on the idea that a cluster in data space is a contiguous region of high point density, separated from other such clusters by contiguous regions of low point density.
