@@ -34,7 +34,7 @@ for more information please visit the following link: <br />
 “DBSCAN Clustering Algorithm in Machine Learning,” KDnuggets. https://www.kdnuggets.com/dbscan-clustering-algorithm-in-machine-learning.html
 
 ## Disadvantage with DBSCAN
-The drawback of this method is that if the data have different densities in different parts, that is, for example, a part of the data space has a higher density and a part of the space has a lower density, this algorithm does not work well. The aim of this project is to develop the DBSCAN algorithm so that the algorithm works well for data with different densities. <br />
+The drawback of this method is that if the data have different densities in different parts, that is, for example, a part of the data space has a higher density and a part of the space has a lower density, this algorithm does not work well. The aim of this project is to improve the DBSCAN algorithm so that the algorithm works well for data with different densities. <br />
 I generated 2-dimentional datasets with different densities and shapes and compared DBSCAN algorithm and its improved version on them.
 The problem of this algorithm is that it uses fixed parameters in the implementation of the algorithm, which causes problems in clustering datasets that have different densities. To improve it, it is possible to implement an algorithm that uses different eps and minPts for each dataset or find the optimal parameters for each dataset.
 
