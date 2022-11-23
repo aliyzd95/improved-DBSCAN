@@ -32,7 +32,7 @@ There are three types of points after the DBSCAN clustering is complete:
 * The clusters are then expanded by recursively repeating the neighborhood calculation for each neighboring point.
 
 for more information please visit the following link: <br />
-“DBSCAN Clustering Algorithm in Machine Learning,” KDnuggets. https://www.kdnuggets.com/dbscan-clustering-algorithm-in-machine-learning.html
+https://www.kdnuggets.com/dbscan-clustering-algorithm-in-machine-learning.html
 
 ## Disadvantage with DBSCAN
 The drawback of this method is that if the data have different densities in different parts, that is, for example, a part of the data space has a higher density and a part of the space has a lower density, this algorithm does not work well. The aim of this project is to improve the DBSCAN algorithm so that the algorithm works well with data with different densities. <br />
